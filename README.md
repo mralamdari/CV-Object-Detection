@@ -1,1 +1,1 @@
-# CV Object Detection
+# Computer Vision Object Detection
